@@ -12,6 +12,10 @@ Install scikit-learn 1.0.2
 
 ## Dataset
 
+Download the dataset from 链接：https://rec.ustc.edu.cn/share/8ae7f390-0697-11ee-9a61-e37520c2839a密码：r9z8
+
+unzip data.zip
+
 ## Running the code
 
 mkdir pt
